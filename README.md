@@ -1,6 +1,6 @@
 # Python_tutorial
 
-- [Python-tutorial](https://www.python-izm.com/)を参考にした、Python-tutorial
+- [Python-izm](https://www.python-izm.com/)を参考にした、Python-tutorial
 
 # Project Overview
 ## Motivation
